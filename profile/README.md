@@ -29,6 +29,7 @@ Our platform is designed for:
 ## ❗ The Problem
 
 Africa faces critical financial challenges:
+
 - 🌐 **Limited financial access** for underbanked communities  
 - 💸 **High cross-border transaction fees**  
 - 🕵️ **Lack of transparency and financial control**  
@@ -39,6 +40,7 @@ Africa faces critical financial challenges:
 ## 💡 Our Solution
 
 Exion Finance solves these issues through:
+
 - A **blockchain-powered platform** that promotes financial inclusion  
 - Integration with **stable digital currencies** for low-volatility transactions  
 - **Mobile-first design**, optimized for the African market  
@@ -50,44 +52,17 @@ Exion Finance solves these issues through:
 
 - 🪙 Stablecoin support (USDC, cUSD, cKES)
 - 📱 Mobile Money Integration (e.g., M-Pesa)
-- 🔐 Non-custodial Wallet Access
+- 🔐 Custodial Wallet Access
 - 💬 Fiat On/Off-Ramp APIs for businesses
 - 📈 Merchant Dashboard & Reporting Tools
 
 ---
 
-## 📊 Impact Metrics
-
-- 55% of surveyed users (sample size: 80) report **Exion Pay as their first blockchain financial tool**
-- 1,000 users redeemed $1 credits, with a **15% retention rate**
-
----
-
-## 🤝 Partners & Collaborations
-
-We are proud to collaborate with:
-- **SasaPay** – for fiat liquidity provisioning  
-- **Celo Ecosystem** – powering our blockchain infrastructure  
-- **Local merchants & fintech providers** across Africa
-
----
-
-## 📈 Roadmap Milestones
-
-| Quarter | Milestone |
-|--------|-----------|
-| Q1     | Launch of MVP with stablecoin and mobile money integration |
-| Q2     | Merchant onboarding & fiat API documentation |
-| Q3     | User incentive campaigns & transaction fee optimization |
-| Q4     | Launch of Exion Pro for large businesses and remittance providers |
-
----
-
 ## 📬 Contact
 
-- **Website:** [www.exion.finance](http://www.exion.finance) *(Coming Soon)*  
-- **Email:** hello@exion.finance  
-- **Twitter:** [@ExionFinance](https://twitter.com/ExionFinance)  
+- **Website:** [www.exion.finance](http://www.exion.finance)  
+- **Email:** [info@exion.finance]  
+- **Twitter:** [@ExionFinance](ExionFinance)  
 - **Telegram:** t.me/ExionFinance
 
 ---
